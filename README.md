@@ -19,42 +19,27 @@ Time spent: **5** hours spent in total
 	- publish the post
 	- view the post new post
 
-1. (Required) Vulnerability Name or ID
+2. Authenticated Stored Cross Site Scripting via Image frame
+  - Summary: 
+    - Vulnerability types: Cross Site Scripting
+    - Tested in version: 4.2.1
+    - Fixed in version: 4.2
+  - GIF Walkthrough:
+  ![](/xss2.gif)
+  - Steps to recreate:
+	- Add a new image in media
+	- Click on the new image then edit more details
+	- Add the javascript in the image name in the title section
+	- Click update and open the permalink
+
+3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
+
 
 ## Assets
 
