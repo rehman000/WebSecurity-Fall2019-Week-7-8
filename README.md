@@ -6,7 +6,7 @@ Time spent: **5** hours spent in total
 
 ## Pentesting Report
 
-1. Authenticated Stored Cross Site Scripting
+**1. Authenticated Stored Cross Site Scripting
   - Summary: 
     - Vulnerability types: Cross Site Scripting
     - Tested in version 4.2.3
@@ -19,7 +19,7 @@ Time spent: **5** hours spent in total
 	- publish the post
 	- view the post new post
 
-2. Authenticated Stored Cross Site Scripting via Image frame
+**2. Authenticated Stored Cross Site Scripting via Image frame
   - Summary: 
     - Vulnerability types: Cross Site Scripting
     - Tested in version: 4.2.1
@@ -32,7 +32,7 @@ Time spent: **5** hours spent in total
 	- Add the javascript in the image name in the title section
 	- Click update and open the permalink
 
-3. (Required) Vulnerability Name or ID
+**3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
     - Tested in version:
