@@ -37,8 +37,11 @@ Time spent: **5** hours spent in total
     - Vulnerability types: User Authentication
     - Tested in version: 4.2
     - Fixed in version: N/A
-  - GIF Walkthrough: 
-  - Steps to recreate: 
+  - GIF Walkthrough:
+  ![](./userauth.gif)
+  - Steps to recreate:
+	- Type in admin for the username and a wrong password
+	- Type in a random username and password
 
 
 ## Assets
@@ -58,7 +61,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Abtahi Chowdhury]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
