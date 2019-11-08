@@ -9,8 +9,8 @@ Time spent: **5** hours spent in total
 **1. Authenticated Stored Cross Site Scripting**
   - Summary: 
     - Vulnerability types: Cross Site Scripting
-    - Tested in version 4.2.3
-    - Fixed in version: 4.2
+    - Tested in version 4.2
+    - Fixed in version: 4.2.3
   - GIF Walkthrough:
   ![](./xss1.gif)
   - Steps to recreate: 
@@ -22,8 +22,8 @@ Time spent: **5** hours spent in total
 **2. Authenticated Stored Cross Site Scripting via Image frame**
   - Summary: 
     - Vulnerability types: Cross Site Scripting
-    - Tested in version: 4.2.1
-    - Fixed in version: 4.2
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.1
   - GIF Walkthrough:
   ![](./xss2.gif)
   - Steps to recreate:
@@ -32,13 +32,13 @@ Time spent: **5** hours spent in total
 	- Add the javascript in the image name in the title section
 	- Click update and open the permalink
 
-**3. (Required) Vulnerability Name or ID**
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+**3. User Authentication**
+  - Summary: 
+    - Vulnerability types: User Authentication
+    - Tested in version: 4.2
+    - Fixed in version: N/A
+  - GIF Walkthrough: 
+  - Steps to recreate: 
 
 
 ## Assets
