@@ -12,7 +12,7 @@ Time spent: **5** hours spent in total
     - Tested in version 4.2.3
     - Fixed in version: 4.2
   - GIF Walkthrough:
-  ![](/xss1.gif)
+  ![](./xss1.gif)
   - Steps to recreate: 
 	- make a new post
 	- write the javascript in the body of the post
@@ -25,7 +25,7 @@ Time spent: **5** hours spent in total
     - Tested in version: 4.2.1
     - Fixed in version: 4.2
   - GIF Walkthrough:
-  ![](/xss2.gif)
+  ![](./xss2.gif)
   - Steps to recreate:
 	- Add a new image in media
 	- Click on the new image then edit more details
